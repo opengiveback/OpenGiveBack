@@ -4,7 +4,10 @@ OpenGiveBack.org provides the explicit definitition to the moral obligation of p
 
 ![Screenshot](./opengivebacklogo.png)
 
-# OpenGiveBack Repayment Tiers
+
+# OpenGiveBack agreement 0.5
+
+## OpenGiveBack Repayment Tiers
 opengiveback, produce open source hardware, give back 15% profit to 30% payed price, fair to unicorn to equal partners
 In an OpenGiveBack, you can be either an **author/publisher** of opensource software and/or hardware, or you can be a **producer/seller**, profiting from the open sourced work.
 
@@ -26,7 +29,7 @@ There is also the option (**for the** **author/publisher** **ONLY**) to require 
 The special, **"author/publisher"-only"** repayment tier is
 - 0% (in author's OpenGiveBack repository file only) **NO NEED**/Please DO NOT transfer any funds to me
 
-# What exactly is the OpenGiveBack?
+## What exactly is the OpenGiveBack?
 
 OpenGiveBack defines ways to profit from producing OpenSource Hardware while retaining morality, by establishing an amount of profits per sold hardware unit to be transferred to the original designer who published his solution to opensource.
 Where there is only 1 designer, this is sufficient, however when the work is based on previously published opensource design by another author, this convention either leaves it to the author to assess how much value for the application he has added/how much the previous work is worth, and do his own OpenGiveBack if he so feels the need to.
@@ -47,8 +50,9 @@ Here are examples of how you would state the desired OpenGiveBack repayment tier
 - ENOUGH work
 - created a UNICORN for you
 
-If you do not state the tier name, the default "fair" tier is always implied.
-An entire category, much like opensource licenses, is created by this. 
+If you do not state the tier name, the default **fair** tier is always implied.
+
+An entire category, much like opensource licenses only mostly in the moral dimension, is created by this. This is chosen so that application of OpenGiveBack can not lead to various, location/legislation dependent obligations arising for those who apply OpenGiveBack. It is entirely voluntary and non-compulsory. It is the same reason why 
 So as to be compatible with opensource licenses, the obligation required by OpenGiveBack is purely a moral one.
 
 
@@ -77,7 +81,7 @@ DESIGNER ALSO SUPPLIES PRODUCED HARDWARE
 
 About opensource software, to simplify it shall be established hardware and software are equally valuable, unless noted otherwise. If only a part of opensource software is used, but it is the basis and foundation to any additions, it can still be said software has value of half of device, and base necessary opensource sofware used all has at least half the value of all opensource software, unless otherwise decided.
 
-# Example of OpenGiveBack application
+## Example of OpenGiveBack application
 
 For example, if you have made entire hardware design, and are using someone else's opensource software in it's original form, a "fair" tier of OpenGiveBack would be 50% of the 15% )7.5% of profits) for "fair" tier, and it should be noted in the standard OpenGiveBack note with only software mentioned on the PCB.
 If however you have added features into the opensource with significant added value to the project, it would be fair to reduce the portion given to original opensource sw author down to at least 50%, so that he gets 3.75% of profits or more (if several opensource solutions are integrated by yourself, 50% of the software part, is shared among these solutions, and parts are equal or arbitered by you by significance to the project and added value to the project of each of the softwares, otherwise if you are using an already integrated solution, it is by default the integrrator's (moral) responsability to further divide what you send him, unless he explicitly stated in his OpenGiveBack file in his repository, that he wants the payee to distribute among people who's software he integrated. Any integrator is to get no less than 20% of the total sum.
@@ -85,7 +89,7 @@ If however you have added features into the opensource with significant added va
 The easiest job in determining the moral OpenGiveBack amount, is when assembling open source projects made from hardware and software made by the same person/team, in that case, there is only one recipient for the 15% profit share of the "fair" opengiveback tier.
 Defining new customs, to rtain honor and morality in the remote social landscape of contacts you never meet yet are using their work, published into opensource or with express permission but with no strings attached. For instance, if there are several suppliers of an assembled open hardware design, it could be more morally correct to choose the one with added OpenGiveBack.org logo, that takes care of the author too.
 
-# Legal Disclaimer
+## Legal Disclaimer
 No warranties or legal obligations of any kind, express or implied, are imposed by this document. This document is only a proposition to, calling upon their morals, ease retention of morality by producers of open hardware or sellers of open software, with a concrete definition of how much of the profits and to whom to donate. This definition does not claim to be the only righteous way, it is just a definition reflecting it's author's (Milos Stojanovic) thoughts, values and experience.
 
 Use this as is on your own responsibility, no damages or injuries caused by or said to be caused by this document can be charged to the author of OpenGiveBack.org (Milos Stojanovic). In case any judicial claims should rise, they are to be settled by the court in Kursk, Russian Federation.
