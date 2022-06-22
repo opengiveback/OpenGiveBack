@@ -1,0 +1,2 @@
+# OpenGiveBack
+The explicit definitition to the moral obligation of paying back authors whose free, open-sourced designs you are selling and earning profit for yourself. Enable people to circumvent procrastination of producing and selling someone else's open-sourced idea/code/designs when you know people need/want it. Every repository should have an opengiveback file and define the percentage they (verbally) require when someone produces and sells their open-source design, if they find the default "fair" 15% of all sales profits not enough.
