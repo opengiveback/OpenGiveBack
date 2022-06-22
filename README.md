@@ -61,6 +61,19 @@ DESIGNER ALSO SUPPLIES PRODUCED HARDWARE
 
 About opensource software, to simplify it shall be established hardware and software are equally valuable, unless noted otherwise. If only a part of opensource software is used, but it is the basis and foundation to any additions, it can still be said software has value of half of device, and base necessary opensource sofware used all has at least half the value of all opensource software, unless otherwise decided.
 
+# Example of OpenGiveBack application
+
+For example, if you have made entire hardware design, and are using someone else's opensource software in it's original form, a "fair" tier of OpenGiveBack would be 50% of the 15% )7.5% of profits) for "fair" tier, and it should be noted in the standard OpenGiveBack note with only software mentioned on the PCB.
+If however you have added features into the opensource with significant added value to the project, it would be fair to reduce the portion given to original opensource sw author down to at least 50%, so that he gets 3.75% of profits or more (if several opensource solutions are integrated by yourself, 50% of the software part, is shared among these solutions, and parts are equal or arbitered by you by significance to the project and added value to the project of each of the softwares, otherwise if you are using an already integrated solution, it is by default the integrrator's (moral) responsability to further divide what you send him, unless he explicitly stated in his OpenGiveBack file in his repository, that he wants the payee to distribute among people who's software he integrated. Any integrator is to get no less than 20% of the total sum.
+
+The easiest job in determining the moral OpenGiveBack amount, is when assembling open source projects made from hardware and software made by the same person/team, in that case, there is only one recipient for the 15% profit share of the "fair" opengiveback tier.
+Defining new customs, to rtain honor and morality in the remote social landscape of contacts you never meet yet are using their work, published into opensource or with express permission but with no strings attached. For instance, if there are several suppliers of an assembled open hardware design, it could be more morally correct to choose the one with added OpenGiveBack.org logo, that takes care of the author too.
+
+# Legal Disclaimer
+No warranties or legal obligations of any kind, express or implied, are imposed by this document. This document is only a proposition to, calling upon their morals, ease retention of morality by producers of open hardware or sellers of open software, with a concrete definition of how much of the profits and to whom to donate. This definition does not claim to be the only righteous way, it is just a definition reflecting it's author's (Milos Stojanovic) thoughts, values and experience.
+
+Use as is on your own responsibility, no damages or injuries caused by or said to be caused by this document can be charged to the author of OpenGiveBack.org (Milos Stojanovic). In case any judicial claims should rise, they are to be settled by the court in Kursk, Russian Federation.
+
 # How should the logo look like on a PCB?
 Here is an example of using OpenGiveBack.org logos on a PCB.
 
