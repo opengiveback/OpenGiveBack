@@ -41,11 +41,11 @@ The tier's name can be part of a custom sentence in the OpenGiveBack repository 
 
 Here are examples of how you would state the desired OpenGiveBack repayment tier (default sentences, if customized please retain the tier name, and in all capital letters):
 
--NO NEED for giving back money
--JUST A LITTLE BIT of work
--a FAIR amount of work
--ENOUGH work
--created a UNICORN for you
+- NO NEED for giving back money
+- JUST A LITTLE BIT of work
+- a FAIR amount of work
+- ENOUGH work
+- created a UNICORN for you
 
 An entire category, much like opensource licenses, is created by this. 
 So as to be compatible with opensource licenses, the obligation required by OpenGiveBack is purely a moral one.
