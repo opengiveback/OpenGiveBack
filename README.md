@@ -21,8 +21,10 @@ The percentage of the profit to be returned can be chosen from the following Ope
 - 30% **unicorn**
 - 50% **equal partners**
 
-There is also the option (for the author only) to require he is not given anything. However, producers/sellers
-0% (in author's OpenGiveBack repository file only) Please DO NOT transfer any funds to me
+There is also the option (**for the** **author/publisher** **ONLY**) to require he is not given anything. However, **producers/sellers** **CAN NOT USE THE 0% TIER, AS THAT DEFEATS THE PURPOSE AND MEANING OF OpenGiveBack.org, i.e. you can't/shouldn't put the OpenGiveBack.org logo on the open-source based product if you don't donate at least 5% of total profits back to the** **author/publisher** **, and the repayment tier chosen should be stated below the logo and OpenGiveBack.org text.**
+
+The special, **"author/publisher"-only"** repayment tier is
+- 0% (in author's OpenGiveBack repository file only) Please DO NOT transfer any funds to me
 
 OpenGiveBack defines ways to profit from producing OpenSource Hardware while retaining morality, by establishing an amount of profits per sold hardware unit to be transferred to the original designer who published his solution to opensource.
 Where there is only 1 designer, this is sufficient, however when the work is based on previously published opensource design by another author, this convention either leaves it to the author to assess how much value for the application he has added/how much the previous work is worth, and do his own OpenGiveBack if he so feels the need to.
