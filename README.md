@@ -83,6 +83,7 @@ DESIGNER ALSO SUPPLIES PRODUCED HARDWARE
 
 The text "If you produce this open-source hardware for profit, please give back a fair amount" under OpenGiveBack.org text and logo, can be put in a smaller font by either **author/designer** or the **producer/seller**, and the **fair** keyword can be changed if author has defined another desired OpenGiveBack Repayment Tier.
 
+When an **author/designer** adds the OpenGiveBack.org logo to his design and publishes it, he should also include words "Please update with **producer's/seller's** intentions and chosen OpenGiveBack tier" only in the published version of open-source files (not in the author-produced physical PCB itself), so that it is obvious when the logo is left untouched. Presence of this sentence on the designs means that probably, a **producer/seller** of such a design is not aware or doesn't care for OpenGiveBack.
 
 About opensource software, to simplify it shall be established hardware and software are equally valuable, unless noted otherwise. If only a part of opensource software is used, but it is the basis and foundation to any additions, it can still be said software has value of half of device, and base necessary opensource sofware used all has at least half the value of all opensource software, unless otherwise decided.
 
