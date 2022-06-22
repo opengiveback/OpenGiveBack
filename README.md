@@ -6,16 +6,23 @@ OpenGiveBack.org provides the explicit definitition to the moral obligation of p
 
 # OpenGiveBack Repayment Tiers
 opengiveback, produce open source hardware, give back 15% profit to 30% payed price, fair to unicorn to equal partners
+In an OpenGiveBack, you can be either an **author/publisher** of opensource software and/or hardware, or you can be a **producer/seller**, profiting from the open sourced work.
 
-- 5% just teasing/I just reverse engineered your stuff, bro
-- 10% giving back a bit
-- 15% fair
-- 20% enough
-- 25% respect
-- 30% unicorn
-- 50% equal partners
+The actual amount returned to the **author/publisher** is always determined by the **producer/seller**, however the **author/publisher** can add an OpenGiveBack text file to his public open-source repository, in which he/she states what he considers to be a moral amount of OpenGiveBack for the design/product source files, AND to whom the total amount is to be payed (if the work is derived from previous work, or is made by multiple authors). All of these are defined in this OpenGiveBack.org definition text.
 
-0% self-expended?
+OpenGiveBack.org only provides a recomendation to donate back to authors of open-source, with no legal obligations and bindings, only moral ones.
+
+The percentage of the profit to be returned can be chosen from the following OpenGiveBack Repayment Tiers, named scale, where the names represent the tier's desirability
+- 5% **just teasing**/I just reverse engineered your stuff, bro
+- 10% **giving back a bit**
+- 15% **fair**
+- 20% **enough**
+- 25% **respect**
+- 30% **unicorn**
+- 50% **equal partners**
+
+There is also the option (for the author only) to require he is not given anything. However, producers/sellers
+0% (in author's OpenGiveBack repository file only) Please DO NOT transfer any funds to me
 
 OpenGiveBack defines ways to profit from producing OpenSource Hardware while retaining morality, by establishing an amount of profits per sold hardware unit to be transferred to the original designer who published his solution to opensource.
 Where there is only 1 designer, this is sufficient, however when the work is based on previously published opensource design by another author, this convention either leaves it to the author to assess how much value for the application he has added/how much the previous work is worth, and do his own OpenGiveBack if he so feels the need to.
