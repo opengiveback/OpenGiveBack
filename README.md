@@ -1,6 +1,9 @@
 # OpenGiveBack.org
 OpenGiveBack.org provides the explicit definitition to the moral obligation of paying back authors whose free, open-sourced designs you are selling (hardware or software) and earning profit for yourself. Enable people to circumvent procrastination of producing and selling someone else's open-sourced idea/code/designs when you know people need/want it. Every repository should have an opengiveback file and define the percentage they (verbally) require when someone produces and sells their open-source design, if they find the proposed default "fair" 15% of all sales profits not enough or too much.
 
+
+![Screenshot](./opengivebacklogo.png)
+
 # OpenGiveBack Repayment Tiers
 opengiveback, produce open source hardware, give back 15% profit to 30% payed price, fair to unicorn to equal partners
 
@@ -50,10 +53,15 @@ Privacy is also very important, OpenGiveBack.org has a givebacktally option, how
 Like maestro singers who were doused with flowers, so shall the most popular authors on opengiveback.org receive the title of opengiveback's maestro, thus earning free promotion for his opensource work, and through the morality of those who produce it and suggestions from opengiveback.org, 
 Because if someone gave you seeds to plant and grow beautiful flowers, it's only fair to give some back to the someone in question.
 
-"I prefer you getting hardware produced by me" option, addition to the logo
+"I prefer to produce and supply hardware for my designs myself" option, addition to the logo meaning you prefer people get the open source hardware produced by you
 "I prefer to produce and supply hardware for my designs myself"
 "Designer also makes and supplies this opensource hardware, but this is 
 DESIGNER ALSO SUPPLIES PRODUCED HARDWARE
 (THIS NOT PRODUCED AND SOLD BY DESIGNER)
 
 About opensource software, to simplify it shall be established hardware and software are equally valuable, unless noted otherwise. If only a part of opensource software is used, but it is the basis and foundation to any additions, it can still be said software has value of half of device, and base necessary opensource sofware used all has at least half the value of all opensource software, unless otherwise decided.
+
+# How should the logo look like on a PCB?
+Here is an example of using OpenGiveBack.org logos on a PCB.
+
+![Screenshot](./isaltaopengivebackexample.png)
