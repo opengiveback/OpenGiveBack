@@ -78,3 +78,5 @@ Use as is on your own responsibility, no damages or injuries caused by or said t
 Here is an example of using OpenGiveBack.org logos on a PCB.
 
 ![Screenshot](./isaltaopengivebackexample.png)
+
+The vector graphics and KiCad example are included in the https://github.com/serbs-software/OpenGiveBack/ repository.
