@@ -100,7 +100,7 @@ If you do not agree with this disclaimer, please do not use OpenGiveBack agreeme
 
 ## Contributing to OpenGiveBack.org
 
-If you have any questions, or have percieved some inconsistencies with this agreement and the actions it proposes, or you have some suggestions, please [Open A New Issue](https://github.com/serbs-software/OpenGiveBack/issues/new/choose) on the [OpenGiveBack GitHub Repository](https://github.com/serbs-software/OpenGiveBack/)
+If you have any questions, or have percieved some inconsistencies with this agreement and the actions it proposes, or you have some suggestions, please open A new issue on the OpenGiveBack GitHub Repository](https://github.com/serbs-software/OpenGiveBack/issues/new/choose)
 
 # How should the logo look like on a PCB?
 Here is an example of using OpenGiveBack.org logos on a PCB from the [ISALTA project](https://github.com/serbs-software/isalta/).
