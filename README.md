@@ -53,7 +53,9 @@ Here are examples of how you would state the desired OpenGiveBack repayment tier
 If you do not state the tier name, the default **fair** tier is always implied.
 
 An entire category, much like opensource licenses only mostly in the moral dimension, is created by this. This is chosen so that application of OpenGiveBack can not lead to various, location/legislation dependent obligations arising for those who apply OpenGiveBack. It is entirely voluntary and non-compulsory. It is the same reason why 
-So as to be compatible with opensource licenses, the obligation required by OpenGiveBack is purely a moral one.
+So as to be compatible with opensource licenses, the obligation required by OpenGiveBack is purely a moral one. All people really have, is their word.
+
+Verification process using email shall be established, but promoting tracking and lack of privacy is not what opengiveback.org is about, so this verification procedure shall remain completely optional, and mostly on seller's demand.
 
 
 All consequences of not following any of these rules are moral only.
