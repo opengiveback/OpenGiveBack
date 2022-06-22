@@ -47,6 +47,7 @@ Here are examples of how you would state the desired OpenGiveBack repayment tier
 - ENOUGH work
 - created a UNICORN for you
 
+If you do not state the tier name, the default "fair" tier is always implied.
 An entire category, much like opensource licenses, is created by this. 
 So as to be compatible with opensource licenses, the obligation required by OpenGiveBack is purely a moral one.
 
