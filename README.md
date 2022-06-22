@@ -13,18 +13,20 @@ The actual amount returned to the **author/publisher** is always determined by t
 OpenGiveBack.org only provides a recomendation to donate back to authors of open-source, with no legal obligations and bindings, only moral ones.
 
 The percentage of the profit to be returned can be chosen from the following OpenGiveBack Repayment Tiers, named scale, where the names represent the tier's desirability
-- 5% **just teasing**/I just reverse engineered your stuff, bro
-- 10% **giving back a bit**
-- 15% **fair**
-- 20% **enough**
-- 25% **respect**
-- 30% **unicorn**
-- 50% **equal partners**
+- 5% **JUST TEASING**/I just reverse engineered your stuff, bro
+- 10% **GIVING BACK A BIT**
+- 15% **FAIR**
+- 20% **ENOUGH**
+- 25% **RESPECT**
+- 30% **UNICORN**
+- 50% **EQUAL PARTNERS**
 
 There is also the option (**for the** **author/publisher** **ONLY**) to require he is not given anything. However, **producers/sellers** **CAN NOT USE THE 0% TIER, AS THAT DEFEATS THE PURPOSE AND MEANING OF OpenGiveBack.org, i.e. you can't/shouldn't put the OpenGiveBack.org logo on the open-source based product if you don't donate at least 5% of total profits back to the** **author/publisher** **, and the repayment tier chosen should be stated below the logo and OpenGiveBack.org text.**
 
 The special, **"author/publisher"-only"** repayment tier is
-- 0% (in author's OpenGiveBack repository file only) Please DO NOT transfer any funds to me
+- 0% (in author's OpenGiveBack repository file only) **NO NEED**/Please DO NOT transfer any funds to me
+
+# What exactly is the OpenGiveBack?
 
 OpenGiveBack defines ways to profit from producing OpenSource Hardware while retaining morality, by establishing an amount of profits per sold hardware unit to be transferred to the original designer who published his solution to opensource.
 Where there is only 1 designer, this is sufficient, however when the work is based on previously published opensource design by another author, this convention either leaves it to the author to assess how much value for the application he has added/how much the previous work is worth, and do his own OpenGiveBack if he so feels the need to.
@@ -35,11 +37,15 @@ OpenGiveBackPleasePropagate/PleaseRecurse informs the author to redistribute the
 
 By proclaiming the desired profit sharing concept in the project directory, much like already done with the opensource license, you direct what happens with your work and avoid confusion should other be created.
 
-NO NEED for giving back money
-JUST A LITTLE BIT of work
-a FAIR amount of work
-ENOUGH work
-created a UNICORN for you
+The tier's name can be part of a custom sentence in the OpenGiveBack repository file/below the OpenGiveBack logo on the PCB/software About screen, just keep the tier name in all capital letters so that it is clear and obvious.
+
+Here are examples of how you would state the desired OpenGiveBack repayment tier (default sentences, if customized please retain the tier name, and in all capital letters):
+
+-NO NEED for giving back money
+-JUST A LITTLE BIT of work
+-a FAIR amount of work
+-ENOUGH work
+-created a UNICORN for you
 
 An entire category, much like opensource licenses, is created by this. 
 So as to be compatible with opensource licenses, the obligation required by OpenGiveBack is purely a moral one.
