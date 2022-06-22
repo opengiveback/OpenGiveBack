@@ -79,6 +79,9 @@ Because if someone gave you seeds to plant and grow beautiful flowers, it's only
 DESIGNER ALSO SUPPLIES PRODUCED HARDWARE
 (THIS NOT PRODUCED AND SOLD BY DESIGNER)
 
+The text "If you produce this open-source hardware for profit, please give back a fair amount" under OpenGiveBack.org text and logo, can be put in a smaller font by either **author/designer** or the **producer/seller**, and the **fair** keyword can be changed if author has defined another desired OpenGiveBack Repayment Tier.
+
+
 About opensource software, to simplify it shall be established hardware and software are equally valuable, unless noted otherwise. If only a part of opensource software is used, but it is the basis and foundation to any additions, it can still be said software has value of half of device, and base necessary opensource sofware used all has at least half the value of all opensource software, unless otherwise decided.
 
 ## Example of OpenGiveBack application
@@ -103,7 +106,7 @@ If you do not agree with this disclaimer, please do not use OpenGiveBack agreeme
 If you have any questions, or have percieved some inconsistencies with this agreement and the actions it proposes, or you have some suggestions, please [open A new issue on the OpenGiveBack GitHub Repository](https://github.com/serbs-software/OpenGiveBack/issues/new/choose)
 
 # How should the logo look like on a PCB?
-Here is an example of using OpenGiveBack.org logos on a PCB from the [ISALTA project](https://github.com/serbs-software/isalta/).
+Here is an example of using OpenGiveBack.org logos on a PCB from the [ISALTA project](https://github.com/serbs-software/isalta/), the first project  supporting OpenGiveBack.org.
 
 ![Screenshot](./isaltaopengivebackexample.png)
 
