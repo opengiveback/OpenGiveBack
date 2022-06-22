@@ -92,9 +92,11 @@ Defining new customs, to rtain honor and morality in the remote social landscape
 ## Legal Disclaimer
 No warranties or legal obligations of any kind, express or implied, are imposed by this document. This document is only a proposition to, calling upon their morals, ease retention of morality by producers of open hardware or sellers of open software, with a concrete definition of how much of the profits and to whom to donate. This definition does not claim to be the only righteous way, it is just a definition reflecting it's author's (Milos Stojanovic) thoughts, values and experience.
 
+This text has to bee shared in it's entirety and unchanged. Only OpenGiveBack.org author (Milos Stojanovic) can revise this text.
+
 Use this as is on your own responsibility, no damages or injuries caused by or said to be caused by this document can be charged to the author of OpenGiveBack.org (Milos Stojanovic). In case any judicial claims should rise, they are to be settled by the court in Kursk, Russian Federation.
 
-This text has to bee shared in it's entirety and unchanged. Only OpenGiveBack.org author (Milos Stojanovic) can revise this text.
+If you do not agree with this disclaimer, please do not use OpenGiveBack agreement. Otherwise, please do.
 
 # How should the logo look like on a PCB?
 Here is an example of using OpenGiveBack.org logos on a PCB from the [ISALTA project](https://github.com/serbs-software/isalta/).
