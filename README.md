@@ -85,7 +85,7 @@ Use this as is on your own responsibility, no damages or injuries caused by or s
 
 This text has to bee shared in it's entirety and unchanged. Only OpenGiveBack.org author (Milos Stojanovic) can revise this text.
 
-#howdoesitlook How should the logo look like on a PCB?
+# How should the logo look like on a PCB?
 Here is an example of using OpenGiveBack.org logos on a PCB from the [ISALTA project](https://github.com/serbs-software/isalta/).
 
 ![Screenshot](./isaltaopengivebackexample.png)
