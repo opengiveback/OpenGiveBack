@@ -7,13 +7,13 @@ OpenGiveBack.org provides the explicit definitition to the moral obligation of p
 # OpenGiveBack Repayment Tiers
 opengiveback, produce open source hardware, give back 15% profit to 30% payed price, fair to unicorn to equal partners
 
-5% just teasing/I just reverse engineered your stuff, bro
-10% giving back a bit
-15% fair
-20% enough
-25% respect
-30% unicorn
-50% equal partners
+- 5% just teasing/I just reverse engineered your stuff, bro
+- 10% giving back a bit
+- 15% fair
+- 20% enough
+- 25% respect
+- 30% unicorn
+- 50% equal partners
 
 0% self-expended?
 
