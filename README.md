@@ -29,7 +29,7 @@ There is also the option (**for the** **author/publisher** **ONLY**) to require 
 The special, **"author/publisher"-only"** repayment tier is
 - 0% (in author's OpenGiveBack repository file only) **NO NEED**/Please DO NOT transfer any funds to me
 
-Both hardware and software open-source designs (in physical products) togheter add-up to the percentage of profit defined by an OpenGiveBack Repayment Tier. It is up to the **producer/seller** to define the exact division of this total OpenGiveBack percentage of profits to software and hardware design author(s), if they are different authors, based on the added value and indispensability as perceived by the **producer/seller**.
+Both hardware and software open-source designs (in physical products) together add-up to the percentage of profit defined by an OpenGiveBack Repayment Tier. It is up to the **producer/seller** to define the exact division of this total OpenGiveBack percentage of profits to software and hardware design author(s), if they are different authors, based on the added value and indispensability as perceived by the **producer/seller**.
 
 ## What exactly is the OpenGiveBack?
 
