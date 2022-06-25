@@ -34,9 +34,10 @@ Both hardware and software open-source designs (in physical products) together a
 
 ## What exactly is the OpenGiveBack?
 
-OpenGiveBack defines ways to profit from producing OpenSource Hardware while retaining morality, by establishing an amount of profits per sold hardware unit to be transferred to the original designer who published his solution to opensource.
-Where there is only 1 designer, this is sufficient, however when the work is based on previously published opensource design by another author, this convention either leaves it to the author to assess how much value for the application he has added/how much the previous work is worth, and do his own OpenGiveBack if he so feels the need to.
-Authors can also set an OpenGiveBack index, a percentage defining how much of the OpenGiveBack cash should be given to him, and how much to authors he based his work on. If defined, there should be an OpenGiveBack.txt file in the project directory.
+OpenGiveBack defines ways to profit from producing OpenSource Hardware/Software while retaining morality, by establishing an amount of profits per sold hardware unit to be transferred as donations to the original **author/designer/publisher** who published his solution to opensource, by the **producer/seller**.
+Where there is only 1 designer, this is sufficient definition, however when the work is based on previously published opensource design by another author, this convention either leaves it to the author to assess how much value for the application he has added/how much the previous work is worth, and do his own OpenGiveBack if he so feels the need to.
+
+**Authors/publishers** can also set an OpenGiveBack index, a percentage defining how much of the OpenGiveBack cash should be given to him, and how much to authors he based his work on. If defined, there should be an OpenGiveBack.txt file in the project directory.
 Every OpenGiveBack payment must include a note on it's type.
 - OpenGiveBackOnlyForYou is a payment not having the moral obligation of propagating to earlier authors, and the default form of OpenGiveBack used when otherwise not defined (to prevent too much requirement of self doubt and overthinking on the recipientduring normal application of this process, the intent is to reward the author not punish him). To avoid the definition including requirements of too much microtransactions, the relevant granularity for further propagation is set to 10 USD, meaning you as a recipient of OpenGiveBack funds should only send to other authors when their parts accumulate over 10$.
 - OpenGiveBackPleasePropagate/PleaseRecurse informs the author to redistribute the funds to the other/previous authors the work of whose the opensource design is based upon.
