@@ -9,6 +9,7 @@ OpenGiveBack.org provides the explicit definitition to the moral obligation of p
 
 ## OpenGiveBack Repayment Tiers
 <sup> * opengiveback, produce open source hardware, give back 15% profit to 30% payed price, fair to unicorn to equal partners* </sup>
+
 In an OpenGiveBack, you can be either an **author/publisher** of opensource software and/or hardware, or you can be a **producer/seller**, profiting from the open sourced work.
 
 The actual amount returned to the **author/publisher** is always determined by the **producer/seller**, however the **author/publisher** can add an OpenGiveBack text file to his public open-source repository, in which he/she states what he considers to be a moral amount of OpenGiveBack for the design/product source files, AND to whom the total amount is to be payed (if the work is derived from previous work, or is made by multiple authors). All of these are defined in this OpenGiveBack.org definition text.
