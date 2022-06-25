@@ -19,7 +19,7 @@ OpenGiveBack.org only provides a recomendation to donate back to authors of open
 The percentage of the profit to be returned can be chosen from the following OpenGiveBack Repayment Tiers, named scale, where the names represent the tier's desirability
 - 5% **JUST TEASING**/I just reverse engineered your stuff, bro
 - 10% **GIVING BACK A BIT**
-- 15% **FAIR** (implied default OpenGiveBack tier when no tier is mentioned)
+- 15% **FAIR** (implied default when no tier mentioned)
 - 20% **ENOUGH**
 - 25% **RESPECT**
 - 30% **UNICORN**
