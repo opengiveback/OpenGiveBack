@@ -35,6 +35,7 @@ Both hardware and software open-source designs (in physical products) together a
 ## What exactly is the OpenGiveBack?
 
 OpenGiveBack defines ways to profit from producing OpenSource Hardware/Software while retaining morality, by establishing an amount of profits per sold hardware unit to be transferred as donations to the original **author/designer/publisher** who published his solution to opensource, by the **producer/seller**.
+
 Where there is only 1 designer, this is sufficient definition, however when the work is based on previously published opensource design by another author, this convention either leaves it to the author to assess how much value for the application he has added/how much the previous work is worth, and do his own OpenGiveBack if he so feels the need to.
 
 **Authors/publishers** can also set an OpenGiveBack index, a percentage defining how much of the OpenGiveBack cash should be given to him, and how much to authors he based his work on. If defined, there should be an OpenGiveBack.txt file in the project directory.
