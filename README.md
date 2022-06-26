@@ -95,7 +95,7 @@ About opensource software, to simplify it shall be established hardware and soft
 ## Three ways of marking product as OpenGiveBack-er
 
 ### Way 1:
-Add (each in new line)
+Add (each in new line) to hardware PCB silkscreen OR software about message/splash screen/webisite.
 
 **a)** **logo graphics** and
 
@@ -114,6 +114,9 @@ Only **a)**, **b)** and **c)** (at least tier name)
 
 ### Way 3:
 Only **b)** and, if not implied or purposedfully not quoted, **c)** tier name (for ,minimum space requirements)
+
+
+You can register your OpenGiveBack-er product on opengiveback.org, it shall be listed on the site after manual data verification.
 
 ## Example of OpenGiveBack application
 
