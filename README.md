@@ -94,15 +94,17 @@ About opensource software, to simplify it shall be established hardware and soft
 
 ## Three ways of marking product as OpenGiveBack-er
 
-1. Add (each in new line)
+Way 1: Add (each in new line)
 **a)** **logo graphics** and
 **b)** OpenGiveBack.org **title** below,
 **c)** repayment tier, write applied(**producer/seller**) or desired(**author/designer**) (Gives back ENOUGH (20%) of profits to OpenSource project authors"
 **d)** credit authors of used OpenSource projects, optional full repository addresses and percentages of OpenGiveBack.org donations for the project.
 *Optional OpenGiveBac explanation sentence.*
-2.Only **a)**, **b)** and **c)** (at least tier name)
+
+Way 2: Only **a)**, **b)** and **c)** (at least tier name)
 *Optional OpenGiveBack explanation sentence.*
-3.Only **b)** and, if not implied or purposedfully not quoted, **c)** tier name (for ,minimum space requirements)
+
+Way 3: Only **b)** and, if not implied or purposedfully not quoted, **c)** tier name (for ,minimum space requirements)
 
 ## Example of OpenGiveBack application
 
