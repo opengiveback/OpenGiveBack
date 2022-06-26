@@ -94,7 +94,7 @@ About opensource software, to simplify it shall be established hardware and soft
 
 ## Three ways of marking product as OpenGiveBack-er
 
-### Way 1(Full disclosure):
+### Way 1(full disclosure):
 Add (each in new line) to hardware PCB silkscreen OR software about message/splash screen/webisite.
 
 **a)** **logo graphics** and
