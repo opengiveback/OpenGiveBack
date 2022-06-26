@@ -94,7 +94,7 @@ About opensource software, to simplify it shall be established hardware and soft
 
 ## Three ways of marking product as OpenGiveBack-er
 
-### Way 1:
+### Way 1(Full disclosure):
 Add (each in new line) to hardware PCB silkscreen OR software about message/splash screen/webisite.
 
 **a)** **logo graphics** and
@@ -107,12 +107,12 @@ Add (each in new line) to hardware PCB silkscreen OR software about message/spla
 
 *Optional OpenGiveBac explanation sentence.*
 
-### Way 2:
+### Way 2(limited display):
 Only **a)**, **b)** and **c)** (at least tier name)
 
 *Optional OpenGiveBack explanation sentence.*
 
-### Way 3:
+### Way 3(minimal):
 Only **b)** and, if not implied or purposedfully not quoted, **c)** tier name (for ,minimum space requirements)
 
 
