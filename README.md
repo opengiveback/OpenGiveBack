@@ -92,6 +92,20 @@ When an **author/designer** adds the OpenGiveBack.org logo to his design and pub
 
 About opensource software, to simplify it shall be established hardware and software are equally valuable, unless noted otherwise. If only a part of opensource software is used, but it is the basis and foundation to any additions, it can still be said software has value of half of device, and base necessary opensource sofware used all has at least half the value of all opensource software, unless otherwise decided.
 
+## Three ways of marking product as OpenGiveBack-er
+
+1. Add (each in new line)
+a)**logo graphics** and
+b)OpenGiveBack.org **title** below,
+c)repayment tier, write applied(**producer/seller**) or desired(**author/designer**) (Gives back ENOUGH (20%) of profits to OpenSource project authors"
+d)credit authors of used OpenSource projects, optional full repository addresses and percentages of OpenGiveBack.org donations for the project.
+*Optional OpenGiveBac explanation sentence.*
+
+2.Only a), b) and c) (at least tier name)
+*Optional OpenGiveBack explanation sentence.*
+
+3.Only b) and if not implied, tier name (for ,minimum space requirements)
+
 ## Example of OpenGiveBack application
 
 For example, if you have made entire hardware design, and are using someone else's opensource software in it's original form, a "fair" tier of OpenGiveBack would be 50% of the 15% )7.5% of profits) for "fair" tier, and it should be noted in the standard OpenGiveBack note with only software mentioned on the PCB.
