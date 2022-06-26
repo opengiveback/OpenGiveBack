@@ -1,6 +1,7 @@
 # OpenGiveBack.org
 OpenGiveBack.org provides the explicit definitition to the moral obligation of paying back authors whose free, open-sourced designs you are selling (hardware or software) and earning profit for yourself. Enable people to circumvent procrastination of producing and selling someone else's open-sourced idea/code/designs when you know people need/want it. Every repository should have an opengiveback file and define the percentage they (verbally) require when someone produces and sells their open-source design, if they find the proposed default "fair" 15% of all sales profits not enough or too much.
 
+You can access the files with logos in PNG, KiCad and DXF formats (for PCB application) on the [OpenGivaBack github repository](https://github.com/serbs-software/OpenGiveBack), so you can tell the world the OpenSource based software/hardware product you are selling is giving part of the profit back to the designers of the OpenSource sourcecode that enabled/invented it's existance.
 
 ![Screenshot](./opengivebacklogo.png)
 
