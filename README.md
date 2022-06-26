@@ -145,4 +145,4 @@ Here is an example of using OpenGiveBack.org logos on a PCB from the [ISALTA pro
 
 ![Screenshot](./isaltaopengivebackexample.png)
 
-The vector graphics and KiCad example are included in the https://github.com/serbs-software/OpenGiveBack/ repository.
+The vector graphics and KiCad example are included in the [OpenGiveBack github repository](https://github.com/serbs-software/OpenGiveBack/).
