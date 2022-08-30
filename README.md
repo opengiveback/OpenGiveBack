@@ -6,7 +6,20 @@ You can access the files with logos in PNG, KiCad and DXF formats (for PCB appli
 ![Screenshot](./opengivebacklogo.png)
 
 
-# OpenGiveBack agreement 0.5
+# OpenGiveBack agreement 0.6
+
+OpenGiveBack, is a promise from the seller, that he is going to give back the stated part (15% unless stated otherwise) of his PROFITS, to the authors of the open-sourced solution he is producing and selling per their blueprint, or if he is the author, to the authors of libraries used in producing the software/hardware.
+
+An author may also put the OpenGiveBack.org logo on his own product published as open-source, only to inform people that he expects those who profit from the software or hardware, to give back a certain amount of their profits from selling the product they produced, as per the author's designs.
+
+## OpenGiveBack categories of users
+
+Opengiveback can be innitialized by
+1.original developers and sellers of device or software, proclaiming opengiveback to authors of used open-sourced libraries,
+2.producers/sellers of existing openhardware open source solution proclaiming open give back to authors of the entire project, or
+3.open source publisher proclaiming producers/sellers of his solution should give back according to desired opengiveback rate.
+
+
 
 ## OpenGiveBack Repayment Tiers
 <sup> * opengiveback, produce open source hardware, give back 15% profit to 30% payed price, fair to unicorn to equal partners* </sup>
